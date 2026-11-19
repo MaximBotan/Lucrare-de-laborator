@@ -1,1 +1,1 @@
-print("Varianta din main") 
+print("Varianta finala")
